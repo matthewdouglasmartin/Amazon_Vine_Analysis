@@ -12,21 +12,21 @@ After the video game reviews dataset was cleaned up, 4 separate dataframes were 
 
 * How many Vine reviews and non-Vine reviews were there?
 
-![Number of Vine reviews]()
+    - ![Number of Vine reviews](https://github.com/matthewdouglasmartin/Amazon_Vine_Analysis/blob/main/Resources/Number_of_Vine_Reviews.png)
 
-![Number of non-Vine reviews]()
+    - ![Number of non-Vine reviews](https://github.com/matthewdouglasmartin/Amazon_Vine_Analysis/blob/main/Resources/Number_of_nonVine_reviews.png)
 
 * How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
 
-![Number of Vine 5 star reviews]()
+    - ![Number of Vine 5 star reviews](https://github.com/matthewdouglasmartin/Amazon_Vine_Analysis/blob/main/Resources/Nunber_paid_5star.png)
 
-![Number of non-Vine 5 star reviews]()
+    - ![Number of non-Vine 5 star reviews](https://github.com/matthewdouglasmartin/Amazon_Vine_Analysis/blob/main/Resources/Number_unpaid_5star.png)
 
 * What percentage of Vine reviews were 5 stars? What percentage of non-vine reviews were 5 stars?
 
-![Percentage of 5 star Vine Reviews]()
+    - ![Percentage of 5 star Vine Reviews](https://github.com/matthewdouglasmartin/Amazon_Vine_Analysis/blob/main/Resources/Percent_paid_5star.png)
 
-![Percentage of 5 star non-Vine reviews]()
+    - ![Percentage of 5 star non-Vine reviews](https://github.com/matthewdouglasmartin/Amazon_Vine_Analysis/blob/main/Resources/Percent_unpaid_5star.png)
 
 ## Summary:
 
